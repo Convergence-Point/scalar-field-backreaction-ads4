@@ -1,0 +1,12 @@
+# build output
+build/
+
+# generated data (rerun the programs to recreate it)
+animation/
+convergence/
+is*.txt
+iter*.txt
+
+# editor settings
+.vscode/
+*.swp
